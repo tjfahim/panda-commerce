@@ -1,5 +1,6 @@
 .orange-bg{
     background-color: rgb(254,234,233);
+    border-radius: 10px
 }
 .carousel-item{
     padding: 20px 40px;
@@ -18,4 +19,43 @@
 }
 .container{
     margin-bottom: 70px;
+}
+
+.cat1, .cat2, .cat3{
+    color:white;
+    padding:10px 30px;
+    border-radius:5px;
+
+}
+.cat1{
+    background-color:orange
+}
+.cat2{
+    background:red
+}
+.cat3{
+    background:blue
+}
+.categories img{
+    width:100px;
+}
+.backpack img{
+    width:250px;
+}
+.card{
+    border:none;
+    box-shadow:5px 10px 10px lightgray
+}
+.bag{
+    height: 100px;
+}
+#subscribe{
+    height: 300px;
+  
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
